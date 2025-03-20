@@ -1,1 +1,0 @@
-# GenAi-LLMOPS-AWS
